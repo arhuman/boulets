@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/devkitpro/!svn/ver/4457/trunk/libogc/libogc
+END
+gx_regdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/4270/trunk/libogc/libogc/gx_regdef.h
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3696/trunk/libogc/libogc/console.c
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2839/trunk/libogc/libogc/console.h
+END
+arqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/4129/trunk/libogc/libogc/arqueue.c
+END
+card.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/4061/trunk/libogc/libogc/card.c
+END
+depackrnc.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/depackrnc.S
+END
+gu.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/4224/trunk/libogc/libogc/gu.c
+END
+si.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/3709/trunk/libogc/libogc/si.c
+END
+lwp_wkspace.inl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/libogc/lwp_wkspace.inl
+END
+lwp_handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/4346/trunk/libogc/libogc/lwp_handler.S
+END
+lwp_watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/3429/trunk/libogc/libogc/lwp_watchdog.c
+END
+cond.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/4170/trunk/libogc/libogc/cond.c
+END
+message.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3190/trunk/libogc/libogc/message.c
+END
+lwp_mutex.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/lwp_mutex.inl
+END
+lwp_states.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/66/trunk/libogc/libogc/lwp_states.inl
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/3762/trunk/libogc/libogc/conf.c
+END
+lwp_stack.inl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/66/trunk/libogc/libogc/lwp_stack.inl
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3407/trunk/libogc/libogc/irq.c
+END
+lwp_heap.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/4014/trunk/libogc/libogc/lwp_heap.inl
+END
+tpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4452/trunk/libogc/libogc/tpl.c
+END
+usbmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/4238/trunk/libogc/libogc/usbmouse.c
+END
+isfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/4097/trunk/libogc/libogc/isfs.c
+END
+system_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/4403/trunk/libogc/libogc/system_asm.S
+END
+lwp_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/lwp_queue.c
+END
+video.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/4014/trunk/libogc/libogc/video.c
+END
+exception_handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/devkitpro/!svn/ver/4335/trunk/libogc/libogc/exception_handler.S
+END
+sys_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/sys_state.c
+END
+lwp_wkspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2223/trunk/libogc/libogc/lwp_wkspace.c
+END
+aram.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/3718/trunk/libogc/libogc/aram.c
+END
+lwp_watchdog.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/libogc/lwp_watchdog.inl
+END
+cache_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/4354/trunk/libogc/libogc/cache_asm.S
+END
+dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4196/trunk/libogc/libogc/dsp.c
+END
+lwp_stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/lwp_stack.c
+END
+lwp_messages.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/libogc/lwp_messages.inl
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4277/trunk/libogc/libogc/usb.c
+END
+lwp_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/1664/trunk/libogc/libogc/lwp_heap.c
+END
+lock_supp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/3319/trunk/libogc/libogc/lock_supp.c
+END
+argv.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2464/trunk/libogc/libogc/argv.c
+END
+network_wii.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/4367/trunk/libogc/libogc/network_wii.c
+END
+lwp_objmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/libogc/lwp_objmgr.c
+END
+lwp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4446/trunk/libogc/libogc/lwp.c
+END
+mutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/4014/trunk/libogc/libogc/mutex.c
+END
+usbgecko.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/4142/trunk/libogc/libogc/usbgecko.c
+END
+lwp_priority.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/lwp_priority.inl
+END
+lwp_queue.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2758/trunk/libogc/libogc/lwp_queue.inl
+END
+sdgecko_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/4230/trunk/libogc/libogc/sdgecko_io.c
+END
+timesupp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/4170/trunk/libogc/libogc/timesupp.c
+END
+lwp_sema.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/lwp_sema.inl
+END
+es.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/4206/trunk/libogc/libogc/es.c
+END
+lwp_threadq.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/libogc/lwp_threadq.c
+END
+decrementer_handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/devkitpro/!svn/ver/4346/trunk/libogc/libogc/decrementer_handler.S
+END
+ipc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4313/trunk/libogc/libogc/ipc.c
+END
+sdgecko_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2466/trunk/libogc/libogc/sdgecko_buf.c
+END
+timesupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/2174/trunk/libogc/libogc/timesupp.h
+END
+lwp_threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/4342/trunk/libogc/libogc/lwp_threads.c
+END
+dvd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4146/trunk/libogc/libogc/dvd.c
+END
+gx.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/4310/trunk/libogc/libogc/gx.c
+END
+sys_state.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/sys_state.inl
+END
+usbstorage.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/4457/trunk/libogc/libogc/usbstorage.c
+END
+newlibc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3319/trunk/libogc/libogc/newlibc.c
+END
+semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/3190/trunk/libogc/libogc/semaphore.c
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/4349/trunk/libogc/libogc/system.c
+END
+exi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3709/trunk/libogc/libogc/exi.c
+END
+texconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3578/trunk/libogc/libogc/texconv.c
+END
+lwp_messages.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/libogc/lwp_messages.c
+END
+exception.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/4376/trunk/libogc/libogc/exception.c
+END
+gu_psasm.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/4224/trunk/libogc/libogc/gu_psasm.S
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/4455/trunk/libogc/libogc/audio.c
+END
+network_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/devkitpro/!svn/ver/2384/trunk/libogc/libogc/network_common.c
+END
+sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/3583/trunk/libogc/libogc/sbrk.c
+END
+lwp_objmgr.inl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/1417/trunk/libogc/libogc/lwp_objmgr.inl
+END
+lwp_priority.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/1277/trunk/libogc/libogc/lwp_priority.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/libogc/cache.c
+END
+stm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3011/trunk/libogc/libogc/stm.c
+END
+pad.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3709/trunk/libogc/libogc/pad.c
+END
+lwp_sema.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/libogc/lwp_sema.c
+END
+irq_handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/4346/trunk/libogc/libogc/irq_handler.S
+END
+lwp_threadq.inl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/lwp_threadq.inl
+END
+depackrnc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libogc/depackrnc1.c
+END
+lwp_threads.inl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/devkitpro/!svn/ver/4014/trunk/libogc/libogc/lwp_threads.inl
+END
+kprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2174/trunk/libogc/libogc/kprintf.c
+END
+console_font_8x16.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/devkitpro/!svn/ver/3096/trunk/libogc/libogc/console_font_8x16.c
+END
+malloc_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/3319/trunk/libogc/libogc/malloc_lock.c
+END
+wiisd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/4453/trunk/libogc/libogc/wiisd.c
+END
+gcsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/3588/trunk/libogc/libogc/gcsd.c
+END
+ogc_crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/4395/trunk/libogc/libogc/ogc_crt0.S
+END
+wiilaunch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/4266/trunk/libogc/libogc/wiilaunch.c
+END
+lwp_mutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/libogc/lwp_mutex.c
+END
+video_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libogc/video_asm.S
+END
+arqmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/2758/trunk/libogc/libogc/arqmgr.c
+END
+ios.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4245/trunk/libogc/libogc/ios.c
+END
+decrementer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libogc/decrementer.c
+END

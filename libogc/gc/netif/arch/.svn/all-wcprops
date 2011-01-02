@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2385/trunk/libogc/gc/netif/arch
+END
+sys_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/gc/netif/arch/sys_arch.h
+END
+perf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/gc/netif/arch/perf.h
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/gc/netif/arch/init.h
+END
+cc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2385/trunk/libogc/gc/netif/arch/cc.h
+END
+lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/gc/netif/arch/lib.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/gc/netif/arch/cpu.h
+END

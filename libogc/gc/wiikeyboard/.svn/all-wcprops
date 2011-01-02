@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/3478/trunk/libogc/gc/wiikeyboard
+END
+usbkeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/devkitpro/!svn/ver/3323/trunk/libogc/gc/wiikeyboard/usbkeyboard.h
+END
+wsksymdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/devkitpro/!svn/ver/3323/trunk/libogc/gc/wiikeyboard/wsksymdef.h
+END
+keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/devkitpro/!svn/ver/3478/trunk/libogc/gc/wiikeyboard/keyboard.h
+END

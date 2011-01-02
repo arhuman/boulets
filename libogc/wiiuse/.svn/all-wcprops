@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/devkitpro/!svn/ver/4474/trunk/libogc/wiiuse
+END
+license_libogc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/devkitpro/!svn/ver/2457/trunk/libogc/wiiuse/license_libogc.txt
+END
+guitar_hero_3.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/devkitpro/!svn/ver/3752/trunk/libogc/wiiuse/guitar_hero_3.h
+END
+speaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3338/trunk/libogc/wiiuse/speaker.h
+END
+wiiboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/3082/trunk/libogc/wiiuse/wiiboard.c
+END
+events.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/3752/trunk/libogc/wiiuse/events.c
+END
+wiiboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/3082/trunk/libogc/wiiuse/wiiboard.h
+END
+wiiuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/4439/trunk/libogc/wiiuse/wiiuse.c
+END
+wiiuse_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/devkitpro/!svn/ver/4260/trunk/libogc/wiiuse/wiiuse_internal.h
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/4474/trunk/libogc/wiiuse/io.c
+END
+dynamics.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/3161/trunk/libogc/wiiuse/dynamics.c
+END
+motion_plus.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/3752/trunk/libogc/wiiuse/motion_plus.c
+END
+events.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/2451/trunk/libogc/wiiuse/events.h
+END
+ir.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/2737/trunk/libogc/wiiuse/ir.c
+END
+nunchuk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/4063/trunk/libogc/wiiuse/nunchuk.c
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/2784/trunk/libogc/wiiuse/io.h
+END
+dynamics.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/3082/trunk/libogc/wiiuse/dynamics.h
+END
+motion_plus.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/3752/trunk/libogc/wiiuse/motion_plus.h
+END
+ir.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/2646/trunk/libogc/wiiuse/ir.h
+END
+io_wii.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/4463/trunk/libogc/wiiuse/io_wii.c
+END
+definitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2451/trunk/libogc/wiiuse/definitions.h
+END
+nunchuk.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2451/trunk/libogc/wiiuse/nunchuk.h
+END
+classic.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/4063/trunk/libogc/wiiuse/classic.c
+END
+classic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2451/trunk/libogc/wiiuse/classic.h
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/2615/trunk/libogc/wiiuse/os.h
+END
+guitar_hero_3.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/devkitpro/!svn/ver/3752/trunk/libogc/wiiuse/guitar_hero_3.c
+END
+speaker.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3338/trunk/libogc/wiiuse/speaker.c
+END
+wpad.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/4471/trunk/libogc/wiiuse/wpad.c
+END

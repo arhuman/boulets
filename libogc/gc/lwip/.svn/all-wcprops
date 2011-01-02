@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/lwip
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/raw.h
+END
+sio.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/sio.h
+END
+pbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/pbuf.h
+END
+memp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/memp.h
+END
+def.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/def.h
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/stats.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/opt.h
+END
+netif.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/lwip/netif.h
+END
+api.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/1442/trunk/libogc/gc/lwip/api.h
+END
+sockets.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/sockets.h
+END
+snmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/snmp.h
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/arch.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/mem.h
+END
+dhcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/dhcp.h
+END
+sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/1423/trunk/libogc/gc/lwip/sys.h
+END
+api_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/1423/trunk/libogc/gc/lwip/api_msg.h
+END
+tcpip.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/gc/lwip/tcpip.h
+END
+lwipopts.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/lwip/lwipopts.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/gc/lwip/debug.h
+END
+tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/lwip/tcp.h
+END
+err.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/gc/lwip/err.h
+END
+udp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/lwip/udp.h
+END

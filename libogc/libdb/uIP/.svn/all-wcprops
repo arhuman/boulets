@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/devkitpro/!svn/ver/3403/trunk/libogc/libdb/uIP
+END
+uip_arp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_arp.c
+END
+uip_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_arch.h
+END
+memr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2758/trunk/libogc/libdb/uIP/memr.c
+END
+uip.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip.h
+END
+uip_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/3403/trunk/libogc/libdb/uIP/uip_tcp.c
+END
+uip_arp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_arp.h
+END
+uip_icmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_icmp.c
+END
+memr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/899/trunk/libogc/libdb/uIP/memr.h
+END
+uip_tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libdb/uIP/uip_tcp.h
+END
+uip_pbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_pbuf.c
+END
+uip_icmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_icmp.h
+END
+uip_pbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libdb/uIP/uip_pbuf.h
+END
+memb.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/memb.c
+END
+uip_netif.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_netif.c
+END
+bba.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/2201/trunk/libogc/libdb/uIP/bba.c
+END
+uip_ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_ip.c
+END
+memb.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libdb/uIP/memb.h
+END
+uipopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uipopt.h
+END
+uip_netif.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libdb/uIP/uip_netif.h
+END
+bba.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/libdb/uIP/bba.h
+END
+uip_ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_ip.h
+END
+uip_arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/libdb/uIP/uip_arch.c
+END

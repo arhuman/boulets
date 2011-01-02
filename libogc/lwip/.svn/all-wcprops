@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/devkitpro/!svn/ver/4015/trunk/libogc/lwip
+END
+netio.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/2839/trunk/libogc/lwip/netio.c
+END
+network.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/4015/trunk/libogc/lwip/network.c
+END

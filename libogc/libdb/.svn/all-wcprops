@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/devkitpro/!svn/ver/4407/trunk/libogc/libdb
+END
+tcpip.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/3969/trunk/libogc/libdb/tcpip.c
+END
+debug_supp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2076/trunk/libogc/libdb/debug_supp.h
+END
+geckousb.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3160/trunk/libogc/libdb/geckousb.c
+END
+debug_handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/4407/trunk/libogc/libdb/debug_handler.S
+END
+tcpip.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2076/trunk/libogc/libdb/tcpip.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/3239/trunk/libogc/libdb/debug.c
+END
+geckousb.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2341/trunk/libogc/libdb/geckousb.h
+END
+debug_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2341/trunk/libogc/libdb/debug_if.h
+END
+debug_supp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2076/trunk/libogc/libdb/debug_supp.c
+END

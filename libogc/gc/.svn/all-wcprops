@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/devkitpro/!svn/ver/4452/trunk/libogc/gc
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4351/trunk/libogc/gc/network.h
+END
+asndlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4108/trunk/libogc/gc/asndlib.h
+END
+mp3player.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/3321/trunk/libogc/gc/mp3player.h
+END
+samplerate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/466/trunk/libogc/gc/samplerate.h
+END
+gctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4011/trunk/libogc/gc/gctypes.h
+END
+gcmodplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/2992/trunk/libogc/gc/gcmodplay.h
+END
+iso9660.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3339/trunk/libogc/gc/iso9660.h
+END
+mad.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/devkitpro/!svn/ver/3315/trunk/libogc/gc/mad.h
+END
+aesndlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/4318/trunk/libogc/gc/aesndlib.h
+END
+smb.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/devkitpro/!svn/ver/4406/trunk/libogc/gc/smb.h
+END
+gccore.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/4102/trunk/libogc/gc/gccore.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/2397/trunk/libogc/gc/debug.h
+END
+ogcsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/2467/trunk/libogc/gc/ogcsys.h
+END
+gcutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/gc/gcutil.h
+END

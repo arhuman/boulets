@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/66/trunk/libogc/lwip/netif/skeleton
+END
+slipif.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/devkitpro/!svn/ver/66/trunk/libogc/lwip/netif/skeleton/slipif.c
+END
+ethernetif.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/devkitpro/!svn/ver/66/trunk/libogc/lwip/netif/skeleton/ethernetif.c
+END

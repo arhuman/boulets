@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/4267/trunk/libogc/libtinysmb
+END
+smb.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/4267/trunk/libogc/libtinysmb/smb.c
+END
+md4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3118/trunk/libogc/libtinysmb/md4.c
+END
+smb_devoptab.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/devkitpro/!svn/ver/4267/trunk/libogc/libtinysmb/smb_devoptab.c
+END
+ntlm.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/3864/trunk/libogc/libtinysmb/ntlm.c
+END
+des.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3117/trunk/libogc/libtinysmb/des.c
+END

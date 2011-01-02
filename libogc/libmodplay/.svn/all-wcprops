@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/4364/trunk/libogc/libmodplay
+END
+gcmodplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/devkitpro/!svn/ver/4364/trunk/libogc/libmodplay/gcmodplay.c
+END
+freqtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/66/trunk/libogc/libmodplay/freqtab.c
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/3103/trunk/libogc/libmodplay/mixer.c
+END
+modplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/3694/trunk/libogc/libmodplay/modplay.c
+END
+semitonetab.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/devkitpro/!svn/ver/66/trunk/libogc/libmodplay/semitonetab.c
+END

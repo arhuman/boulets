@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/devkitpro/!svn/ver/3335/trunk/libogc/gc/bte
+END
+bte.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3335/trunk/libogc/gc/bte/bte.h
+END
+bd_addr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2559/trunk/libogc/gc/bte/bd_addr.h
+END

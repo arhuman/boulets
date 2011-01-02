@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/devkitpro/!svn/ver/4452/trunk/libogc/gc/ogc
+END
+arqmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/gc/ogc/arqmgr.h
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4247/trunk/libogc/gc/ogc/usb.h
+END
+ios.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/2709/trunk/libogc/gc/ogc/ios.h
+END
+cast.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/3404/trunk/libogc/gc/ogc/cast.h
+END
+lwp_heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/3652/trunk/libogc/gc/ogc/lwp_heap.h
+END
+lwp_tqdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/2461/trunk/libogc/gc/ogc/lwp_tqdata.h
+END
+lwp_objmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/2461/trunk/libogc/gc/ogc/lwp_objmgr.h
+END
+lwp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4446/trunk/libogc/gc/ogc/lwp.h
+END
+mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/4012/trunk/libogc/gc/ogc/mutex.h
+END
+usbgecko.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/4144/trunk/libogc/gc/ogc/usbgecko.h
+END
+arqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/gc/ogc/arqueue.h
+END
+es.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/4205/trunk/libogc/gc/ogc/es.h
+END
+card.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/gc/ogc/card.h
+END
+disc_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/3742/trunk/libogc/gc/ogc/disc_io.h
+END
+lwp_threadq.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/ogc/lwp_threadq.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4194/trunk/libogc/gc/ogc/ipc.h
+END
+gu.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/4223/trunk/libogc/gc/ogc/gu.h
+END
+si.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/gc/ogc/si.h
+END
+lwp_threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/4012/trunk/libogc/gc/ogc/lwp_threads.h
+END
+dvd.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3742/trunk/libogc/gc/ogc/dvd.h
+END
+gx.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/devkitpro/!svn/ver/4311/trunk/libogc/gc/ogc/gx.h
+END
+usbstorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/4447/trunk/libogc/gc/ogc/usbstorage.h
+END
+lwp_watchdog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/3794/trunk/libogc/gc/ogc/lwp_watchdog.h
+END
+cond.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/gc/ogc/cond.h
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/gc/ogc/semaphore.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/4012/trunk/libogc/gc/ogc/message.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/4109/trunk/libogc/gc/ogc/system.h
+END
+exi.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/2926/trunk/libogc/gc/ogc/exi.h
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/3107/trunk/libogc/gc/ogc/conf.h
+END
+texconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2647/trunk/libogc/gc/ogc/texconv.h
+END
+lwp_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/ogc/lwp_messages.h
+END
+video_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/3752/trunk/libogc/gc/ogc/video_types.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3709/trunk/libogc/gc/ogc/irq.h
+END
+consol.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/3098/trunk/libogc/gc/ogc/consol.h
+END
+tpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4452/trunk/libogc/gc/ogc/tpl.h
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/gc/ogc/audio.h
+END
+usbmouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/3752/trunk/libogc/gc/ogc/usbmouse.h
+END
+lwp_priority.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/2461/trunk/libogc/gc/ogc/lwp_priority.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/gc/ogc/cache.h
+END
+stm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/2521/trunk/libogc/gc/ogc/stm.h
+END
+isfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2394/trunk/libogc/gc/ogc/isfs.h
+END
+pad.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/gc/ogc/pad.h
+END
+lwp_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/gc/ogc/lwp_queue.h
+END
+video.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/4012/trunk/libogc/gc/ogc/video.h
+END
+lwp_sema.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/ogc/lwp_sema.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/327/trunk/libogc/gc/ogc/color.h
+END
+sys_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/gc/ogc/sys_state.h
+END
+lwp_wkspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/ogc/lwp_wkspace.h
+END
+aram.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/gc/ogc/aram.h
+END
+gx_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2325/trunk/libogc/gc/ogc/gx_struct.h
+END
+wiilaunch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/2749/trunk/libogc/gc/ogc/wiilaunch.h
+END
+lwp_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/gc/ogc/lwp_mutex.h
+END
+context.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/4345/trunk/libogc/gc/ogc/context.h
+END
+lwp_states.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/gc/ogc/lwp_states.h
+END
+dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4087/trunk/libogc/gc/ogc/dsp.h
+END
+lwp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/2159/trunk/libogc/gc/ogc/lwp_config.h
+END
+lwp_stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/gc/ogc/lwp_stack.h
+END

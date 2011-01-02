@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/devkitpro/!svn/ver/4319/trunk/libogc/libaesnd
+END
+dspmixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/4137/trunk/libogc/libaesnd/dspmixer.h
+END
+aesndlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/4319/trunk/libogc/libaesnd/aesndlib.c
+END

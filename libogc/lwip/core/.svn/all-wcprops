@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/devkitpro/!svn/ver/2384/trunk/libogc/lwip/core
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/dhcp.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/mem.c
+END
+memp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/memp.c
+END
+stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/stats.c
+END
+sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/sys.c
+END
+inet.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2384/trunk/libogc/lwip/core/inet.c
+END
+inet6.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/lwip/core/inet6.c
+END
+netif.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/netif.c
+END
+tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/tcp.c
+END
+udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/udp.c
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/raw.c
+END
+pbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/pbuf.c
+END
+tcp_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/tcp_in.c
+END
+tcp_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/tcp_out.c
+END

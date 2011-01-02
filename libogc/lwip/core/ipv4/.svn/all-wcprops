@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/ipv4
+END
+ip_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/devkitpro/!svn/ver/631/trunk/libogc/lwip/core/ipv4/ip_addr.c
+END
+ip_frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/ipv4/ip_frag.c
+END
+icmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/ipv4/icmp.c
+END
+ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/1656/trunk/libogc/lwip/core/ipv4/ip.c
+END

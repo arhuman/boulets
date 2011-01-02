@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/devkitpro/!svn/ver/4475/trunk/libogc
+END
+libogc_license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/devkitpro/!svn/ver/3302/trunk/libogc/libogc_license.txt
+END
+gcsdk.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/devkitpro/!svn/ver/2756/trunk/libogc/gcsdk.dsp
+END
+gcsdk.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/devkitpro/!svn/ver/1260/trunk/libogc/gcsdk.dsw
+END
+libogc.dox
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/4102/trunk/libogc/libogc.dox
+END
+libogc.prj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/2712/trunk/libogc/libogc.prj
+END
+gcsdk.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4140/trunk/libogc/gcsdk.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/devkitpro/!svn/ver/4475/trunk/libogc/Makefile
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/1692/trunk/libogc/.cvsignore
+END

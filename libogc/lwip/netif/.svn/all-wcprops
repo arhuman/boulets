@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/3191/trunk/libogc/lwip/netif
+END
+etharp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/2065/trunk/libogc/lwip/netif/etharp.c
+END
+loopif.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/devkitpro/!svn/ver/3191/trunk/libogc/lwip/netif/loopif.c
+END

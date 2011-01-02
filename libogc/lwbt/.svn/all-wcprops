@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/devkitpro/!svn/ver/4436/trunk/libogc/lwbt
+END
+l2cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/4254/trunk/libogc/lwbt/l2cap.c
+END
+hci.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/3423/trunk/libogc/lwbt/hci.c
+END
+l2cap.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/2784/trunk/libogc/lwbt/l2cap.h
+END
+btmemb.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2582/trunk/libogc/lwbt/btmemb.c
+END
+hci.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/2514/trunk/libogc/lwbt/hci.h
+END
+btarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2452/trunk/libogc/lwbt/btarch.h
+END
+bte.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/devkitpro/!svn/ver/4436/trunk/libogc/lwbt/bte.c
+END
+bt.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/devkitpro/!svn/ver/2338/trunk/libogc/lwbt/bt.h
+END
+btmemb.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2338/trunk/libogc/lwbt/btmemb.h
+END
+physbusif.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/4249/trunk/libogc/lwbt/physbusif.c
+END
+physbusif.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/devkitpro/!svn/ver/2554/trunk/libogc/lwbt/physbusif.h
+END
+btpbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2452/trunk/libogc/lwbt/btpbuf.c
+END
+btmemr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2758/trunk/libogc/lwbt/btmemr.c
+END
+btpbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2349/trunk/libogc/lwbt/btpbuf.h
+END
+btmemr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/devkitpro/!svn/ver/2338/trunk/libogc/lwbt/btmemr.h
+END
+btopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/devkitpro/!svn/ver/3013/trunk/libogc/lwbt/btopt.h
+END
