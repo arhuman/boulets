@@ -1,0 +1,3 @@
+_ Add dependancies in examples' Makefile (for portlibs : tremor, png, freetype, zlib)
+   http://sourceforge.net/projects/devkitpro/files/portlibs/
+
